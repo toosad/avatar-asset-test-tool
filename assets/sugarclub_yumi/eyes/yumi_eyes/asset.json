@@ -27,7 +27,7 @@
      "overrideHides": [
      ]
   },
-  {"type": "BaseFemale", "model": "Yumi_Eyes.glb"}
+  {"type": "BaseFemale", "model": "Yumi_Eyes.png"}
     ],
     "rarity": "legendary",
     "description": "**"
