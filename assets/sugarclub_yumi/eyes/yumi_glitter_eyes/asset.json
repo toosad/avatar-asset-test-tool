@@ -22,7 +22,7 @@
     "main": [
   {
   "type": "BaseMale", 
-  "model": "yumi_eyes.png", 
+  "model": "yumi_eyes_male.png", 
   "overrideReplaces": [
      ],
      "overrideHides": [
